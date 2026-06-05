@@ -27,7 +27,7 @@ function App() {
         contactEmail: '',
         passengers: '',
     });
-
+    const [responseMsg, setResponseMsg] = useState<string | null>(null);
     const [distance, setDistance] = useState<string | null>(null);
     const [duration, setDuration] = useState<string | null>(null);
 
@@ -66,13 +66,42 @@ function App() {
         try {
             const created = await createBooking(formData);
             setBookings(prev => [...prev, created]);
-            alert('Booking created');
+            setResponseMsg('Booking successfully created!');
+            setTimeout(() => {
+                resetForm();
+            }, 2000);
         } catch (err) {
             console.error(err);
-            alert('Failed to create booking');
+            setResponseMsg('Failed to create booking');
         }
     };
 
+    const resetForm = () => {
+        setFormData({
+            tripType: 'oneway',
+            pickupDate: '',
+            pickupTime: '',
+            pickupLocationType: 'location',
+            pickupLocation: '',
+            pickupLat: null,
+            pickupLng: null,
+            pickupLocationAirport: '',
+            hours: '',
+            dropoffLocationType: 'location',
+            dropoffLocation: '',
+            dropoffLat: null,
+            dropoffLng: null,
+            dropoffLocationAirport: '',
+            contactPhone: '',
+            contactFirstName: '',
+            contactLastName: '',
+            contactEmail: '',
+            passengers: ''
+        });
+        setDistance(null);
+        setDuration(null);
+        setResponseMsg(null);
+    };
     const [contactPhoneExists, setContactPhoneExists] = useState(true);
 
     const checkChontactPhoneExists = () => {
@@ -231,6 +260,7 @@ function App() {
                                     <i className="bi bi-calendar"></i>
                                 </span>
                                 <input
+                                required
                                     type="date"
                                     id="pickupDate"
                                     className="floating-input h-[60px] text-sm w-full h-10 rounded-md border border-gray-300 bg-gray-100 pl-10 pr-3 py-3 text-gray-700 placeholder-slate-300 focus:outline-none focus:ring-0 focus:border-brand"
@@ -247,6 +277,7 @@ function App() {
                                     <i className="bi bi-clock"></i>
                                 </span>
                                 <input
+                                required
                                     type="time"
                                     id="pickupTime"
                                     className="floating-input h-[60px] text-sm w-full h-10 rounded-md border border-gray-300 bg-gray-100 pl-10 pr-3 py-3 text-gray-700 placeholder-slate-300 focus:outline-none focus:ring-0 focus:border-brand"
@@ -549,24 +580,25 @@ function App() {
                                 />
                                 <label htmlFor="lastname" className="floating-label absolute text-sm text-body duration-300 transform -translate-y-4 scale-75 top-2 z-5 origin-[0] bg-neutral-primary block text-sm text-gray-300 mb-1">Last name</label>
                             </div>
+                            <div className="col-span-2 grid gap-2 relative">
+                                <span className="floating-icon absolute inset-y-0 top-px left-3 flex items-center font-bold text-sm">@</span>
+                                <input
+                                    type="email"
+                                    className="floating-input text-sm w-full h-10 rounded-md border border-gray-300 bg-gray-100 pl-10 pr-3 py-3 text-gray-700 placeholder-slate-300 focus:outline-none focus:ring-0 focus:border-brand"
+                                    id="email"
+                                    placeholder="name@example.com"
+                                    value={formData.contactEmail}
+                                    onChange={e => handleFieldChange('contactEmail', e.target.value)}
+                                />
+                                <label htmlFor="lastname" className="floating-label absolute text-sm text-body duration-300 transform -translate-y-4 scale-75 top-2 z-5 origin-[0] bg-neutral-primary block text-sm text-gray-300 mb-1">
+                                    Email
+                                </label>
+                            </div>
                         </div>
                     )}
 
                     <div className="grid gap-4">
-                        <div className="grid gap-2 relative">
-                            <span className="floating-icon absolute inset-y-0 top-px left-3 flex items-center font-bold text-sm">@</span>
-                            <input
-                                type="email"
-                                className="floating-input text-sm w-full h-10 rounded-md border border-gray-300 bg-gray-100 pl-10 pr-3 py-3 text-gray-700 placeholder-slate-300 focus:outline-none focus:ring-0 focus:border-brand"
-                                id="email"
-                                placeholder="name@example.com"
-                                value={formData.contactEmail}
-                                onChange={e => handleFieldChange('contactEmail', e.target.value)}
-                            />
-                            <label htmlFor="lastname" className="floating-label absolute text-sm text-body duration-300 transform -translate-y-4 scale-75 top-2 z-5 origin-[0] bg-neutral-primary block text-sm text-gray-300 mb-1">
-                                Email
-                            </label>
-                        </div>
+                        
                         <label htmlFor="passengers" className="text-sm font-medium text-slate-700">How many passengers are expected for this trip?</label>
                         <div className="grid gap-2 relative">
                             <span className="floating-icon absolute inset-y-0 top-px left-3 flex items-center font-bold text-sm">#</span>
@@ -586,40 +618,45 @@ function App() {
 
                     </div>
                     {distance && duration && (
-                        <div className="w-80 rounded-2xl bg-gradient-to-br from-gray-900 to-gray-800 text-white shadow-xl p-5">
-                            <div className="mb-4">
-                                <h2 className="text-lg font-semibold">Trip Summary</h2>
-                                <p className="text-xs text-gray-400">Estimated route details</p>
-                            </div>
+                        <div className="w-full rounded-md bg-[#fbf9f2] border border-[#cfb153] px-6 py-3 text-sm font-bold text-white transition">
 
-                            <div className="flex items-center justify-between rounded-xl bg-white/5 p-4">
+                            <div className="flex items-center justify-between">
 
-                                <div className="flex flex-col items-center flex-1">
+                                <div className="flex flex-col flex-1">
+                                    <h2 className="text-lg font-semibold text-[#cfb153]">Trip Summary</h2>
+                                    <p className="text-xs text-gray-400">Estimated route details</p>
+                                </div>
+                                <div className="flex flex-col flex-1">
                                     <span className="text-xs text-gray-400"><i className="bi bi-geo-fill"></i> Distance</span>
-                                    <span className="text-lg font-bold">{distance}</span>
+                                    <span className="text-lg font-bold text-[#cfb153]">{distance}</span>
                                 </div>
                                 <div className="w-px h-8 bg-white/20"></div>
-                                <div className="flex flex-col items-center flex-1">
+                                <div className="flex flex-col flex-1">
                                     <span className="text-xs text-gray-400"><i className="bi bi-alarm-fill"></i> Travel Time</span>
-                                    <span className="text-lg font-bold">{duration}</span>
+                                    <span className="text-lg font-bold text-[#cfb153]">{duration}</span>
                                 </div>
-
-                            </div>
-                            <div className="mt-3 text-center text-[11px] text-gray-500">
-                                Based on current traffic conditions
                             </div>
                         </div>
                     )}
-                    <button type="submit" className="submit-btn w-full rounded-md bg-[#cfb153] border border-[#cfb153] px-6 py-3 text-sm font-bold text-white transition">
-                        Continue
-                    </button>
+
+                    <div>
+                        <button type="submit" className="submit-btn w-full rounded-md bg-[#cfb153] border border-[#cfb153] px-6 py-3 text-sm font-bold text-white transition">
+                            Continue
+                        </button>
+                        {responseMsg && (
+                            <div className={`mt-1 text-center text-sm font-medium ${responseMsg === 'Booking successfully created!' ? 'text-green-600' : 'text-red-600'}`}>
+                                {responseMsg}
+                            </div>
+                        )}
+                    </div>
+                        
                 </form>
 
                 <div className="mt-10">
                     <h3 className="text-2xl font-semibold text-slate-900">Bookings</h3>
                     <ul className="mt-4 space-y-2 text-slate-700">
                         {bookings.map((b: any) => (
-                            <li key={b.id} className="rounded-2xl border border-slate-200 bg-slate-50 px-4 py-3">
+                            <li key={b.id} className="rounded-md border border-slate-200 bg-slate-50 px-4 py-3">
                                 {b.contactFirstName} {b.contactLastName} — {b.pickupDate} {b.pickupTime}
                             </li>
                         ))}
