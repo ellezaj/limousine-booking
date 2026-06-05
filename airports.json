@@ -1,0 +1,2472 @@
+[
+ {
+   "id": 13363,
+   "ident": "6MA8",
+   "type": "seaplane_base",
+   "name": "Acushnet River Seaplane Base",
+   "latitude_deg": 41.64730072,
+   "longitude_deg": -70.91750336,
+   "elevation_ft": null,
+   "municipality": "New Bedford"
+ },
+ {
+   "id": 8843,
+   "ident": "21MA",
+   "type": "heliport",
+   "name": "Advance Materials Corp Heliport",
+   "latitude_deg": 42.45539856,
+   "longitude_deg": -73.20230103,
+   "elevation_ft": 1000,
+   "municipality": "Pittsfield"
+ },
+ {
+   "id": 11533,
+   "ident": "4MA7",
+   "type": "heliport",
+   "name": "Ahearn Heliport",
+   "latitude_deg": 42.19150162,
+   "longitude_deg": -72.45010376,
+   "elevation_ft": 280,
+   "municipality": "Ludlow"
+ },
+ {
+   "id": 21831,
+   "ident": "MA88",
+   "type": "small_airport",
+   "name": "Albert Farms Airport",
+   "latitude_deg": 42.39009857,
+   "longitude_deg": -72.93090057,
+   "elevation_ft": 1425,
+   "municipality": "Worthington"
+ },
+ {
+   "id": 15354,
+   "ident": "92MA",
+   "type": "heliport",
+   "name": "Ames Heliport",
+   "latitude_deg": 42.63150024,
+   "longitude_deg": -70.86509705,
+   "elevation_ft": 64,
+   "municipality": "Hamilton"
+ },
+ {
+   "id": 21841,
+   "ident": "MA98",
+   "type": "heliport",
+   "name": "Anna Jaques Hospital Heliport",
+   "latitude_deg": 42.8144989,
+   "longitude_deg": -70.89089966,
+   "elevation_ft": 100,
+   "municipality": "Newburyport"
+ },
+ {
+   "id": 21789,
+   "ident": "MA46",
+   "type": "heliport",
+   "name": "Army National Guard Heliport",
+   "latitude_deg": 42.13069916,
+   "longitude_deg": -71.48419952,
+   "elevation_ft": 300,
+   "municipality": "Milford"
+ },
+ {
+   "id": 344337,
+   "ident": "US-4052",
+   "type": "heliport",
+   "name": "Athol Hospital Heliport",
+   "latitude_deg": 42.58471,
+   "longitude_deg": -72.20906,
+   "elevation_ft": null,
+   "municipality": "Athol"
+ },
+ {
+   "id": 21775,
+   "ident": "MA32",
+   "type": "heliport",
+   "name": "Atlantic Trade Heliport",
+   "latitude_deg": 42.26119995,
+   "longitude_deg": -71.76950073,
+   "elevation_ft": 570,
+   "municipality": "Worcester"
+ },
+ {
+   "id": 21832,
+   "ident": "MA89",
+   "type": "small_airport",
+   "name": "B&B Farm Airport",
+   "latitude_deg": 42.34609985,
+   "longitude_deg": -72.10389709,
+   "elevation_ft": 980,
+   "municipality": "New Braintree"
+ },
+ {
+   "id": 21797,
+   "ident": "MA54",
+   "type": "heliport",
+   "name": "B-Town Heliport",
+   "latitude_deg": 42.30009842,
+   "longitude_deg": -72.42620087,
+   "elevation_ft": 320,
+   "municipality": "Belchertown"
+ },
+ {
+   "id": 345500,
+   "ident": "51MA",
+   "type": "heliport",
+   "name": "BSAS #2 Heliport",
+   "latitude_deg": 42.672583,
+   "longitude_deg": -70.622083,
+   "elevation_ft": 40,
+   "municipality": "Rockport"
+ },
+ {
+   "id": 10584,
+   "ident": "3MA2",
+   "type": "small_airport",
+   "name": "Baines Airport",
+   "latitude_deg": 42.31620026,
+   "longitude_deg": -73.03199768,
+   "elevation_ft": 1160,
+   "municipality": "Middlefield"
+ },
+ {
+   "id": 21769,
+   "ident": "MA26",
+   "type": "balloonport",
+   "name": "Balloon Port at Dingley Dell",
+   "latitude_deg": 42.120399,
+   "longitude_deg": -72.256203,
+   "elevation_ft": 465,
+   "municipality": "Brimfield"
+ },
+ {
+   "id": 11527,
+   "ident": "4MA1",
+   "type": "heliport",
+   "name": "Bangs Heliport",
+   "latitude_deg": 41.77700043,
+   "longitude_deg": -70.68810272,
+   "elevation_ft": 30,
+   "municipality": "Wareham"
+ },
+ {
+   "id": 9009,
+   "ident": "24MA",
+   "type": "heliport",
+   "name": "Barre-Bassett Heliport",
+   "latitude_deg": 42.43590164,
+   "longitude_deg": -72.09670258,
+   "elevation_ft": 900,
+   "municipality": "Barre"
+ },
+ {
+   "id": 21836,
+   "ident": "MA93",
+   "type": "heliport",
+   "name": "Bay Bank Ii Heliport",
+   "latitude_deg": 42.48120117,
+   "longitude_deg": -71.20950317,
+   "elevation_ft": 148,
+   "municipality": "Burlington"
+ },
+ {
+   "id": 21764,
+   "ident": "MA21",
+   "type": "heliport",
+   "name": "Baybank Heliport",
+   "latitude_deg": 42.48120117,
+   "longitude_deg": -71.20760345,
+   "elevation_ft": 150,
+   "municipality": "Burlington"
+ },
+ {
+   "id": 13360,
+   "ident": "6MA5",
+   "type": "heliport",
+   "name": "Baystate Medical Ctr Heliport",
+   "latitude_deg": 42.12200165,
+   "longitude_deg": -72.60089874,
+   "elevation_ft": 100,
+   "municipality": "Springfield"
+ },
+ {
+   "id": 21838,
+   "ident": "MA95",
+   "type": "heliport",
+   "name": "Bear Hole Heliport",
+   "latitude_deg": 42.12649918,
+   "longitude_deg": -72.66950226,
+   "elevation_ft": 235,
+   "municipality": "West Springfield"
+ },
+ {
+   "id": 7671,
+   "ident": "10MA",
+   "type": "seaplane_base",
+   "name": "Beaver Lake Seaplane Base",
+   "latitude_deg": 42.26259995,
+   "longitude_deg": -72.30699921,
+   "elevation_ft": 384,
+   "municipality": "Ware"
+ },
+ {
+   "id": 6831,
+   "ident": "05MA",
+   "type": "heliport",
+   "name": "Bentley Heliport",
+   "latitude_deg": 42.69120026,
+   "longitude_deg": -70.91230011,
+   "elevation_ft": 80,
+   "municipality": "Ipswich"
+ },
+ {
+   "id": 10009,
+   "ident": "32MA",
+   "type": "heliport",
+   "name": "Berkshire Medical Center Heliport",
+   "latitude_deg": 42.708035,
+   "longitude_deg": -73.110328,
+   "elevation_ft": 855,
+   "municipality": "North Adams"
+ },
+ {
+   "id": 8430,
+   "ident": "1MA0",
+   "type": "heliport",
+   "name": "Beth Israel Deaconess Hospital Plymouth Heliport",
+   "latitude_deg": 41.940135,
+   "longitude_deg": -70.6472,
+   "elevation_ft": 122,
+   "municipality": "Plymouth"
+ },
+ {
+   "id": 322293,
+   "ident": "36MA",
+   "type": "heliport",
+   "name": "Beth Israel Deaconess Medical Center Heliport",
+   "latitude_deg": 42.338161,
+   "longitude_deg": -71.109107,
+   "elevation_ft": 161,
+   "municipality": "Boston"
+ },
+ {
+   "id": 21763,
+   "ident": "MA20",
+   "type": "heliport",
+   "name": "Beverly Hospital Heliport",
+   "latitude_deg": 42.56620026,
+   "longitude_deg": -70.87750244,
+   "elevation_ft": 84,
+   "municipality": "Beverly"
+ },
+ {
+   "id": 3433,
+   "ident": "KBVY",
+   "type": "medium_airport",
+   "name": "Beverly Regional Airport",
+   "latitude_deg": 42.584202,
+   "longitude_deg": -70.916496,
+   "elevation_ft": 107,
+   "municipality": "Beverly / Danvers"
+ },
+ {
+   "id": 21820,
+   "ident": "MA77",
+   "type": "small_airport",
+   "name": "Blueberry Hill Airport",
+   "latitude_deg": 42.37509918,
+   "longitude_deg": -73.14759827,
+   "elevation_ft": 2000,
+   "municipality": "Washington"
+ },
+ {
+   "id": 3422,
+   "ident": "KBOS",
+   "type": "large_airport",
+   "name": "Boston Logan International Airport",
+   "latitude_deg": 42.36197,
+   "longitude_deg": -71.0079,
+   "elevation_ft": 20,
+   "municipality": "Boston"
+ },
+ {
+   "id": 7305,
+   "ident": "0MA4",
+   "type": "heliport",
+   "name": "Boston Medical Center Hospital Heliport",
+   "latitude_deg": 42.333804,
+   "longitude_deg": -71.071352,
+   "elevation_ft": 19,
+   "municipality": "Boston"
+ },
+ {
+   "id": 12177,
+   "ident": "58MA",
+   "type": "heliport",
+   "name": "Boston Scientific Marlboro Heliport",
+   "latitude_deg": 42.36169815,
+   "longitude_deg": -71.5089035,
+   "elevation_ft": 390,
+   "municipality": "Marlboro"
+ },
+ {
+   "id": 21799,
+   "ident": "MA56",
+   "type": "heliport",
+   "name": "Boston Scientific Natick Heliport",
+   "latitude_deg": 42.30500031,
+   "longitude_deg": -71.37529755,
+   "elevation_ft": 167,
+   "municipality": "Natick"
+ },
+ {
+   "id": 21782,
+   "ident": "MA39",
+   "type": "heliport",
+   "name": "Brigham & Women's Hospital Heliport",
+   "latitude_deg": 42.336382,
+   "longitude_deg": -71.106809,
+   "elevation_ft": 200,
+   "municipality": "Boston"
+ },
+ {
+   "id": 11535,
+   "ident": "4MA9",
+   "type": "heliport",
+   "name": "Broad Street Heliport",
+   "latitude_deg": 42.09091568,
+   "longitude_deg": -72.58370209,
+   "elevation_ft": 60,
+   "municipality": "Springfield"
+ },
+ {
+   "id": 7306,
+   "ident": "0MA5",
+   "type": "heliport",
+   "name": "Brockton Usar Center Heliport",
+   "latitude_deg": 42.05590057,
+   "longitude_deg": -71.05590057,
+   "elevation_ft": 85,
+   "municipality": "Brockton"
+ },
+ {
+   "id": 7722,
+   "ident": "11MA",
+   "type": "small_airport",
+   "name": "Bulljump Airport",
+   "latitude_deg": 41.80730057,
+   "longitude_deg": -70.75839996,
+   "elevation_ft": 60,
+   "municipality": "Wareham"
+ },
+ {
+   "id": 11526,
+   "ident": "4MA0",
+   "type": "heliport",
+   "name": "Burke Heliport",
+   "latitude_deg": 42.233011,
+   "longitude_deg": -71.358601,
+   "elevation_ft": 240,
+   "municipality": "Sherborn"
+ },
+ {
+   "id": 21772,
+   "ident": "MA29",
+   "type": "heliport",
+   "name": "Camp Edwards Heliport",
+   "latitude_deg": 41.671501,
+   "longitude_deg": -70.564796,
+   "elevation_ft": 135,
+   "municipality": "Bourne"
+ },
+ {
+   "id": 7946,
+   "ident": "15MA",
+   "type": "small_airport",
+   "name": "Canapitsit Airport",
+   "latitude_deg": 41.42251,
+   "longitude_deg": -70.909295,
+   "elevation_ft": 10,
+   "municipality": "Gosnold"
+ },
+ {
+   "id": 9208,
+   "ident": "28MA",
+   "type": "small_airport",
+   "name": "Cannizzaro Field",
+   "latitude_deg": 42.078238,
+   "longitude_deg": -72.818792,
+   "elevation_ft": 250,
+   "municipality": "Southwick"
+ },
+ {
+   "id": 321938,
+   "ident": "US-0370",
+   "type": "seaplane_base",
+   "name": "Cape Air Seaplanes on Boston Harbor Seaplane Base",
+   "latitude_deg": 42.352502,
+   "longitude_deg": -71.025832,
+   "elevation_ft": null,
+   "municipality": "Boston"
+ },
+ {
+   "id": 9327,
+   "ident": "2B1",
+   "type": "small_airport",
+   "name": "Cape Cod Airport",
+   "latitude_deg": 41.685299,
+   "longitude_deg": -70.402298,
+   "elevation_ft": 103,
+   "municipality": "Marston Mills"
+ },
+ {
+   "id": 19879,
+   "ident": "KFMH",
+   "type": "small_airport",
+   "name": "Cape Cod Coast Guard Air Station",
+   "latitude_deg": 41.657899,
+   "longitude_deg": -70.52163,
+   "elevation_ft": 131,
+   "municipality": "Falmouth"
+ },
+ {
+   "id": 3600,
+   "ident": "KHYA",
+   "type": "medium_airport",
+   "name": "Cape Cod Gateway Airport",
+   "latitude_deg": 41.6693,
+   "longitude_deg": -70.280403,
+   "elevation_ft": 54,
+   "municipality": "Hyannis"
+ },
+ {
+   "id": 21753,
+   "ident": "MA10",
+   "type": "heliport",
+   "name": "Chambers Heliport",
+   "latitude_deg": 42.378163,
+   "longitude_deg": -71.088552,
+   "elevation_ft": 60,
+   "municipality": "Somerville"
+ },
+ {
+   "id": 21774,
+   "ident": "MA31",
+   "type": "heliport",
+   "name": "Charlton Memorial Hospital Heliport",
+   "latitude_deg": 41.709775,
+   "longitude_deg": -71.14683,
+   "elevation_ft": 240,
+   "municipality": "Fall River"
+ },
+ {
+   "id": 19547,
+   "ident": "KCQX",
+   "type": "small_airport",
+   "name": "Chatham Municipal Airport",
+   "latitude_deg": 41.68840027,
+   "longitude_deg": -69.98950195,
+   "elevation_ft": 68,
+   "municipality": "Chatham"
+ },
+ {
+   "id": 21790,
+   "ident": "MA47",
+   "type": "heliport",
+   "name": "Chicopee Heliport",
+   "latitude_deg": 42.18259811,
+   "longitude_deg": -72.56150055,
+   "elevation_ft": 245,
+   "municipality": "Chicopee"
+ },
+ {
+   "id": 9928,
+   "ident": "30MA",
+   "type": "heliport",
+   "name": "Clinton Hospital Heliport",
+   "latitude_deg": 42.42789841,
+   "longitude_deg": -71.69280243,
+   "elevation_ft": 368,
+   "municipality": "Clinton"
+ },
+ {
+   "id": 21760,
+   "ident": "MA18",
+   "type": "small_airport",
+   "name": "Cmelak Field",
+   "latitude_deg": 42.07910156,
+   "longitude_deg": -73.30719757,
+   "elevation_ft": 980,
+   "municipality": "Sheffield"
+ },
+ {
+   "id": 12475,
+   "ident": "5MA7",
+   "type": "heliport",
+   "name": "Cochituate Heliport",
+   "latitude_deg": 42.3083992,
+   "longitude_deg": -71.38169861,
+   "elevation_ft": 210,
+   "municipality": "Natick"
+ },
+ {
+   "id": 6604,
+   "ident": "01MA",
+   "type": "heliport",
+   "name": "Compaq Andover Heliport",
+   "latitude_deg": 42.62509918,
+   "longitude_deg": -71.18009949,
+   "elevation_ft": 140,
+   "municipality": "Andover"
+ },
+ {
+   "id": 9533,
+   "ident": "2MA4",
+   "type": "heliport",
+   "name": "Compaq Littleton Heliport",
+   "latitude_deg": 42.54930115,
+   "longitude_deg": -71.47260284,
+   "elevation_ft": 300,
+   "municipality": "Littleton"
+ },
+ {
+   "id": 21793,
+   "ident": "MA50",
+   "type": "heliport",
+   "name": "Compaq Marlboro Heliport",
+   "latitude_deg": 42.32619858,
+   "longitude_deg": -71.57620239,
+   "elevation_ft": 430,
+   "municipality": "Marlboro"
+ },
+ {
+   "id": 21834,
+   "ident": "MA91",
+   "type": "heliport",
+   "name": "Compaq Parker Street Heliport",
+   "latitude_deg": 42.41839981,
+   "longitude_deg": -71.44730377,
+   "elevation_ft": 178,
+   "municipality": "Maynard"
+ },
+ {
+   "id": 9534,
+   "ident": "2MA5",
+   "type": "heliport",
+   "name": "Compaq Powdermill Road Heliport",
+   "latitude_deg": 42.42789841,
+   "longitude_deg": -71.45760345,
+   "elevation_ft": 175,
+   "municipality": "Maynard"
+ },
+ {
+   "id": 9537,
+   "ident": "2MA8",
+   "type": "heliport",
+   "name": "Compaq Stow Heliport",
+   "latitude_deg": 42.43090057,
+   "longitude_deg": -71.54170227,
+   "elevation_ft": 250,
+   "municipality": "Stow"
+ },
+ {
+   "id": 10582,
+   "ident": "3MA0",
+   "type": "heliport",
+   "name": "Compaq Woburn Heliport",
+   "latitude_deg": 42.50979996,
+   "longitude_deg": -71.13639832,
+   "elevation_ft": 80,
+   "municipality": "Woburn"
+ },
+ {
+   "id": 21771,
+   "ident": "MA28",
+   "type": "heliport",
+   "name": "Congamond Lake Heliport",
+   "latitude_deg": 42.03340149,
+   "longitude_deg": -72.75980377,
+   "elevation_ft": 225,
+   "municipality": "Southwick"
+ },
+ {
+   "id": 13361,
+   "ident": "6MA6",
+   "type": "heliport",
+   "name": "Cotuit Heliport",
+   "latitude_deg": 41.617045,
+   "longitude_deg": -70.44327,
+   "elevation_ft": 43,
+   "municipality": "Cotuit"
+ },
+ {
+   "id": 45469,
+   "ident": "7MA2",
+   "type": "seaplane_base",
+   "name": "Craig Cove Seaplane Base",
+   "latitude_deg": 41.780556,
+   "longitude_deg": -70.947222,
+   "elevation_ft": 53,
+   "municipality": "East Freetown"
+ },
+ {
+   "id": 9207,
+   "ident": "28M",
+   "type": "small_airport",
+   "name": "Cranland Airport",
+   "latitude_deg": 42.025101,
+   "longitude_deg": -70.838097,
+   "elevation_ft": 71,
+   "municipality": "Hanson"
+ },
+ {
+   "id": 316954,
+   "ident": "8MA4",
+   "type": "small_airport",
+   "name": "Crow Island Airport (Pvt)",
+   "latitude_deg": 42.417222,
+   "longitude_deg": -71.494444,
+   "elevation_ft": 185,
+   "municipality": "Stow"
+ },
+ {
+   "id": 10099,
+   "ident": "34MA",
+   "type": "heliport",
+   "name": "Crowhurst Heliport",
+   "latitude_deg": 42.57630157,
+   "longitude_deg": -70.73889923,
+   "elevation_ft": 70,
+   "municipality": "Manchester-By-The Sea"
+ },
+ {
+   "id": 601550,
+   "ident": "66MA",
+   "type": "heliport",
+   "name": "Curt Heliport",
+   "latitude_deg": 42.488611,
+   "longitude_deg": -72.220278,
+   "elevation_ft": 770,
+   "municipality": "Petersham"
+ },
+ {
+   "id": 13364,
+   "ident": "6MA9",
+   "type": "seaplane_base",
+   "name": "Cuttyhunk Harbor Seaplane Base",
+   "latitude_deg": 41.423199,
+   "longitude_deg": -70.927298,
+   "elevation_ft": 0,
+   "municipality": "Cuttyhunk"
+ },
+ {
+   "id": 6660,
+   "ident": "02MA",
+   "type": "heliport",
+   "name": "Cuttyhunk Heliport",
+   "latitude_deg": 41.419601,
+   "longitude_deg": -70.927002,
+   "elevation_ft": 9,
+   "municipality": "Cuttyhunk"
+ },
+ {
+   "id": 21814,
+   "ident": "MA71",
+   "type": "heliport",
+   "name": "Davna Corp Heliport",
+   "latitude_deg": 42.15510178,
+   "longitude_deg": -71.38619995,
+   "elevation_ft": 145,
+   "municipality": "Millis"
+ },
+ {
+   "id": 8431,
+   "ident": "1MA1",
+   "type": "heliport",
+   "name": "Deaconess Nashoba Hospital Heliport",
+   "latitude_deg": 42.57649994,
+   "longitude_deg": -71.5739975,
+   "elevation_ft": 308,
+   "municipality": "Ayer"
+ },
+ {
+   "id": 11207,
+   "ident": "47MA",
+   "type": "heliport",
+   "name": "Devon Glen Heliport",
+   "latitude_deg": 42.62340164,
+   "longitude_deg": -70.86620331,
+   "elevation_ft": 100,
+   "municipality": "Hamilton"
+ },
+ {
+   "id": 21783,
+   "ident": "MA40",
+   "type": "seaplane_base",
+   "name": "Diesel Dogs Seaplane Base",
+   "latitude_deg": 42.54339981,
+   "longitude_deg": -71.96839905,
+   "elevation_ft": 325,
+   "municipality": "Gardner"
+ },
+ {
+   "id": 14214,
+   "ident": "7MA1",
+   "type": "heliport",
+   "name": "Digital (Box 2) Heliport",
+   "latitude_deg": 42.49340057,
+   "longitude_deg": -71.54370117,
+   "elevation_ft": 265,
+   "municipality": "Boxborough"
+ },
+ {
+   "id": 14213,
+   "ident": "7MA0",
+   "type": "heliport",
+   "name": "Digital (Boxboro) Heliport",
+   "latitude_deg": 42.49869919,
+   "longitude_deg": -71.4776001,
+   "elevation_ft": 210,
+   "municipality": "Boxborough"
+ },
+ {
+   "id": 9531,
+   "ident": "2MA2",
+   "type": "heliport",
+   "name": "Digital Heliport",
+   "latitude_deg": 42.32649994,
+   "longitude_deg": -71.40950012,
+   "elevation_ft": 450,
+   "municipality": "Hudson"
+ },
+ {
+   "id": 9538,
+   "ident": "2MA9",
+   "type": "heliport",
+   "name": "Digital Heliport",
+   "latitude_deg": 42.6393013,
+   "longitude_deg": -71.22450256,
+   "elevation_ft": 130,
+   "municipality": "Tewksbury"
+ },
+ {
+   "id": 21822,
+   "ident": "MA79",
+   "type": "heliport",
+   "name": "Digital Heliport",
+   "latitude_deg": 42.17589951,
+   "longitude_deg": -72.72480011,
+   "elevation_ft": 260,
+   "municipality": "Westfield"
+ },
+ {
+   "id": 21824,
+   "ident": "MA81",
+   "type": "heliport",
+   "name": "Digital Heliport",
+   "latitude_deg": 42.55509949,
+   "longitude_deg": -71.92559814,
+   "elevation_ft": 1100,
+   "municipality": "Westminster"
+ },
+ {
+   "id": 324378,
+   "ident": "MA11",
+   "type": "heliport",
+   "name": "Dog Fish Bar Heliport",
+   "latitude_deg": 41.354222,
+   "longitude_deg": -70.804756,
+   "elevation_ft": 8,
+   "municipality": "Aquinnah"
+ },
+ {
+   "id": 12472,
+   "ident": "5MA4",
+   "type": "heliport",
+   "name": "Double A Heliport",
+   "latitude_deg": 41.92449951,
+   "longitude_deg": -70.7696991,
+   "elevation_ft": 90,
+   "municipality": "Carver"
+ },
+ {
+   "id": 11528,
+   "ident": "4MA2",
+   "type": "heliport",
+   "name": "Dow Jones Heliport",
+   "latitude_deg": 42.16289902,
+   "longitude_deg": -72.55039978,
+   "elevation_ft": 200,
+   "municipality": "Chicopee"
+ },
+ {
+   "id": 21773,
+   "ident": "MA30",
+   "type": "small_airport",
+   "name": "Dresser Hill Airport",
+   "latitude_deg": 42.10217,
+   "longitude_deg": -71.969118,
+   "elevation_ft": 810,
+   "municipality": "Charlton"
+ },
+ {
+   "id": 347874,
+   "ident": "US-5209",
+   "type": "heliport",
+   "name": "Emerson Hospital Heliport",
+   "latitude_deg": 42.45119,
+   "longitude_deg": -71.37487,
+   "elevation_ft": 121,
+   "municipality": "Concord"
+ },
+ {
+   "id": 9536,
+   "ident": "2MA7",
+   "type": "seaplane_base",
+   "name": "Falls Pond Seaplane Base",
+   "latitude_deg": 41.95840073,
+   "longitude_deg": -71.32640076,
+   "elevation_ft": 175,
+   "municipality": "North Attleborough"
+ },
+ {
+   "id": 12283,
+   "ident": "5B6",
+   "type": "small_airport",
+   "name": "Falmouth Airpark",
+   "latitude_deg": 41.585602,
+   "longitude_deg": -70.540398,
+   "elevation_ft": 43,
+   "municipality": "Falmouth"
+ },
+ {
+   "id": 21780,
+   "ident": "MA37",
+   "type": "heliport",
+   "name": "Falmouth Hospital Heliport",
+   "latitude_deg": 41.56510162,
+   "longitude_deg": -70.62449646,
+   "elevation_ft": 105,
+   "municipality": "Falmouth"
+ },
+ {
+   "id": 12469,
+   "ident": "5MA0",
+   "type": "heliport",
+   "name": "Federal Center Heliport",
+   "latitude_deg": 42.39649963,
+   "longitude_deg": -71.21620178,
+   "elevation_ft": 220,
+   "municipality": "Waltham"
+ },
+ {
+   "id": 13359,
+   "ident": "6MA4",
+   "type": "heliport",
+   "name": "Ferncroft Village Heliport",
+   "latitude_deg": 42.59730148,
+   "longitude_deg": -70.97029877,
+   "elevation_ft": 200,
+   "municipality": "Middleton"
+ },
+ {
+   "id": 602288,
+   "ident": "62MA",
+   "type": "small_airport",
+   "name": "Field of Dreams Airport",
+   "latitude_deg": 41.850158,
+   "longitude_deg": -71.161148,
+   "elevation_ft": 78,
+   "municipality": "North Dighton"
+ },
+ {
+   "id": 19870,
+   "ident": "KFIT",
+   "type": "small_airport",
+   "name": "Fitchburg Municipal Airport",
+   "latitude_deg": 42.55410004,
+   "longitude_deg": -71.75900269,
+   "elevation_ft": 348,
+   "municipality": "Fitchburg"
+ },
+ {
+   "id": 21781,
+   "ident": "MA38",
+   "type": "heliport",
+   "name": "Fitchburg Paper Company Heliport",
+   "latitude_deg": 42.57979965,
+   "longitude_deg": -71.8286972,
+   "elevation_ft": 525,
+   "municipality": "Fitchburg"
+ },
+ {
+   "id": 9535,
+   "ident": "2MA6",
+   "type": "seaplane_base",
+   "name": "Flynns Noquochoke Seaplane Base",
+   "latitude_deg": 41.59360123,
+   "longitude_deg": -71.06529999,
+   "elevation_ft": null,
+   "municipality": "Westport"
+ },
+ {
+   "id": 21752,
+   "ident": "MA07",
+   "type": "small_airport",
+   "name": "Friends Ultralightport",
+   "latitude_deg": 41.56760025,
+   "longitude_deg": -71.11920166,
+   "elevation_ft": 131,
+   "municipality": "Westport"
+ },
+ {
+   "id": 12470,
+   "ident": "5MA2",
+   "type": "heliport",
+   "name": "Fuller House Heliport",
+   "latitude_deg": 41.55319977,
+   "longitude_deg": -70.55090332,
+   "elevation_ft": 30,
+   "municipality": "East Falmouth"
+ },
+ {
+   "id": 19935,
+   "ident": "KGDM",
+   "type": "small_airport",
+   "name": "Gardner Municipal Airport",
+   "latitude_deg": 42.54999924,
+   "longitude_deg": -72.01609802,
+   "elevation_ft": 955,
+   "municipality": "Gardner"
+ },
+ {
+   "id": 330494,
+   "ident": "MA01",
+   "type": "heliport",
+   "name": "Gillette Stadium Heliport",
+   "latitude_deg": 42.088661,
+   "longitude_deg": -71.263289,
+   "elevation_ft": 271,
+   "municipality": "Foxborough"
+ },
+ {
+   "id": 6773,
+   "ident": "04MA",
+   "type": "small_airport",
+   "name": "Goddard Field",
+   "latitude_deg": 42.810908,
+   "longitude_deg": -71.140959,
+   "elevation_ft": 200,
+   "municipality": "Haverhill"
+ },
+ {
+   "id": 21770,
+   "ident": "MA27",
+   "type": "heliport",
+   "name": "Goddard Hosp Heliport",
+   "latitude_deg": 42.10039902,
+   "longitude_deg": -71.08200073,
+   "elevation_ft": 200,
+   "municipality": "Brockton"
+ },
+ {
+   "id": 12784,
+   "ident": "60MA",
+   "type": "heliport",
+   "name": "Grandview Farm Heliport",
+   "latitude_deg": 42.73429871,
+   "longitude_deg": -70.86740112,
+   "elevation_ft": 11,
+   "municipality": "Rowley"
+ },
+ {
+   "id": 6717,
+   "ident": "03MA",
+   "type": "small_airport",
+   "name": "Hadley Airport",
+   "latitude_deg": 42.393431,
+   "longitude_deg": -72.551553,
+   "elevation_ft": 150,
+   "municipality": "Hadley"
+ },
+ {
+   "id": 45470,
+   "ident": "41MA",
+   "type": "heliport",
+   "name": "Haney Heliport",
+   "latitude_deg": 41.590556,
+   "longitude_deg": -70.474963,
+   "elevation_ft": 22,
+   "municipality": "Mashpee"
+ },
+ {
+   "id": 45471,
+   "ident": "37MA",
+   "type": "heliport",
+   "name": "Hanson Heliport",
+   "latitude_deg": 42.122778,
+   "longitude_deg": -72.423611,
+   "elevation_ft": 400,
+   "municipality": "Wilbraham"
+ },
+ {
+   "id": 10588,
+   "ident": "3MA6",
+   "type": "heliport",
+   "name": "Happy Heliport",
+   "latitude_deg": 41.58369827,
+   "longitude_deg": -71.04060364,
+   "elevation_ft": 127,
+   "municipality": "Dartmouth"
+ },
+ {
+   "id": 19300,
+   "ident": "KAQW",
+   "type": "small_airport",
+   "name": "Harriman and West Airport",
+   "latitude_deg": 42.6959,
+   "longitude_deg": -73.170403,
+   "elevation_ft": 654,
+   "municipality": "North Adams"
+ },
+ {
+   "id": 21778,
+   "ident": "MA35",
+   "type": "heliport",
+   "name": "Hat Factory Heliport",
+   "latitude_deg": 42.83509827,
+   "longitude_deg": -70.93109894,
+   "elevation_ft": 10,
+   "municipality": "Amesbury"
+ },
+ {
+   "id": 7303,
+   "ident": "0MA2",
+   "type": "heliport",
+   "name": "Healthalliance Hospital-Leominster Heliport",
+   "latitude_deg": 42.54090118,
+   "longitude_deg": -71.76280212,
+   "elevation_ft": 450,
+   "municipality": "Leominster"
+ },
+ {
+   "id": 9061,
+   "ident": "25MA",
+   "type": "heliport",
+   "name": "High School Heliport",
+   "latitude_deg": 42.20560074,
+   "longitude_deg": -71.44139862,
+   "elevation_ft": 265,
+   "municipality": "Holliston"
+ },
+ {
+   "id": 8101,
+   "ident": "18MA",
+   "type": "heliport",
+   "name": "Holy Family Hospital Heliport",
+   "latitude_deg": 42.72779846,
+   "longitude_deg": -71.16829681,
+   "elevation_ft": 202,
+   "municipality": "Methuen"
+ },
+ {
+   "id": 18453,
+   "ident": "K1B6",
+   "type": "small_airport",
+   "name": "Hopedale Industrial Park Airport",
+   "latitude_deg": 42.106499,
+   "longitude_deg": -71.510101,
+   "elevation_ft": 269,
+   "municipality": "Hopedale"
+ },
+ {
+   "id": 8437,
+   "ident": "1MA8",
+   "type": "heliport",
+   "name": "Horizon Hill Heliport",
+   "latitude_deg": 42.419656,
+   "longitude_deg": -71.309323,
+   "elevation_ft": 336,
+   "municipality": "Lincoln"
+ },
+ {
+   "id": 21833,
+   "ident": "MA90",
+   "type": "heliport",
+   "name": "Host Hotel Heliport",
+   "latitude_deg": 42.48120487,
+   "longitude_deg": -71.54731393,
+   "elevation_ft": 280,
+   "municipality": "Boxborough"
+ },
+ {
+   "id": 21826,
+   "ident": "MA83",
+   "type": "heliport",
+   "name": "Hubbard Regional Hospital Heliport",
+   "latitude_deg": 42.02759933,
+   "longitude_deg": -71.85030365,
+   "elevation_ft": 510,
+   "municipality": "Webster"
+ },
+ {
+   "id": 10148,
+   "ident": "35MA",
+   "type": "heliport",
+   "name": "Idlewide Heliport",
+   "latitude_deg": 42.55799866,
+   "longitude_deg": -70.81259918,
+   "elevation_ft": 25,
+   "municipality": "Beverly"
+ },
+ {
+   "id": 21808,
+   "ident": "MA65",
+   "type": "seaplane_base",
+   "name": "Island Air Service Seaplane Base",
+   "latitude_deg": 41.77180099,
+   "longitude_deg": -70.87310028,
+   "elevation_ft": 53,
+   "municipality": "Rochester"
+ },
+ {
+   "id": 11530,
+   "ident": "4MA4",
+   "type": "heliport",
+   "name": "J K L Heliport",
+   "latitude_deg": 41.621485,
+   "longitude_deg": -71.014225,
+   "elevation_ft": 30,
+   "municipality": "New Bedford"
+ },
+ {
+   "id": 7037,
+   "ident": "09MA",
+   "type": "small_airport",
+   "name": "Kallander Field",
+   "latitude_deg": 42.3042984,
+   "longitude_deg": -71.50589752,
+   "elevation_ft": 403,
+   "municipality": "Southborough"
+ },
+ {
+   "id": 18452,
+   "ident": "K1B2",
+   "type": "small_airport",
+   "name": "Katama Airpark",
+   "latitude_deg": 41.358299,
+   "longitude_deg": -70.524399,
+   "elevation_ft": 18,
+   "municipality": "Edgartown"
+ },
+ {
+   "id": 21829,
+   "ident": "MA86",
+   "type": "small_airport",
+   "name": "Kendalls Lndg Area Airport",
+   "latitude_deg": 42.50559998,
+   "longitude_deg": -73.05979919,
+   "elevation_ft": 2102,
+   "municipality": "Windsor"
+ },
+ {
+   "id": 430409,
+   "ident": "US-7145",
+   "type": "seaplane_base",
+   "name": "Kevins Seaport Seaplane Base",
+   "latitude_deg": 42.274442,
+   "longitude_deg": -72.599656,
+   "elevation_ft": 102,
+   "municipality": "South Hadley"
+ },
+ {
+   "id": 45472,
+   "ident": "85MA",
+   "type": "heliport",
+   "name": "Lahey Hospital Heliport",
+   "latitude_deg": 42.484749,
+   "longitude_deg": -71.201549,
+   "elevation_ft": 241,
+   "municipality": "Burlington"
+ },
+ {
+   "id": 13355,
+   "ident": "6MA0",
+   "type": "seaplane_base",
+   "name": "Lake Gardner Seaplane Base",
+   "latitude_deg": 42.86149979,
+   "longitude_deg": -70.94339752,
+   "elevation_ft": 87,
+   "municipality": "Amesbury"
+ },
+ {
+   "id": 9256,
+   "ident": "29MA",
+   "type": "heliport",
+   "name": "Laminated Heliport",
+   "latitude_deg": 42.20149994,
+   "longitude_deg": -72.59809875,
+   "elevation_ft": 135,
+   "municipality": "Holyoke"
+ },
+ {
+   "id": 21817,
+   "ident": "MA74",
+   "type": "seaplane_base",
+   "name": "Larson's Seaplane Base",
+   "latitude_deg": 42.69150162,
+   "longitude_deg": -71.41809845,
+   "elevation_ft": 90,
+   "municipality": "Tyngsboro"
+ },
+ {
+   "id": 3398,
+   "ident": "KBED",
+   "type": "medium_airport",
+   "name": "Laurence G Hanscom Field",
+   "latitude_deg": 42.470001,
+   "longitude_deg": -71.289001,
+   "elevation_ft": 133,
+   "municipality": "Bedford"
+ },
+ {
+   "id": 7999,
+   "ident": "16MA",
+   "type": "heliport",
+   "name": "Lawrence General Hospital Heliport",
+   "latitude_deg": 42.70980072,
+   "longitude_deg": -71.15059662,
+   "elevation_ft": 60,
+   "municipality": "Lawrence"
+ },
+ {
+   "id": 3660,
+   "ident": "KLWM",
+   "type": "medium_airport",
+   "name": "Lawrence Municipal Airport",
+   "latitude_deg": 42.71720123,
+   "longitude_deg": -71.12339783,
+   "elevation_ft": 148,
+   "municipality": "Lawrence"
+ },
+ {
+   "id": 7309,
+   "ident": "0MA9",
+   "type": "heliport",
+   "name": "Lleia Kyle O'Meara Heliport",
+   "latitude_deg": 42.50310135,
+   "longitude_deg": -71.90840149,
+   "elevation_ft": 1230,
+   "municipality": "Westminster"
+ },
+ {
+   "id": 8048,
+   "ident": "17MA",
+   "type": "heliport",
+   "name": "Long Hill Heliport",
+   "latitude_deg": 42.50479889,
+   "longitude_deg": -71.77839661,
+   "elevation_ft": 630,
+   "municipality": "Leominster"
+ },
+ {
+   "id": 8436,
+   "ident": "1MA7",
+   "type": "heliport",
+   "name": "Long Hill Orchard Heliport",
+   "latitude_deg": 42.47340012,
+   "longitude_deg": -70.97889709,
+   "elevation_ft": 120,
+   "municipality": "West Newbury"
+ },
+ {
+   "id": 21768,
+   "ident": "MA25",
+   "type": "seaplane_base",
+   "name": "Long Pond Seaplane Base",
+   "latitude_deg": 41.73210144,
+   "longitude_deg": -70.06109619,
+   "elevation_ft": 31,
+   "municipality": "Brewster"
+ },
+ {
+   "id": 347511,
+   "ident": "40MA",
+   "type": "heliport",
+   "name": "Lowell General Hospital Heliport",
+   "latitude_deg": 42.648141,
+   "longitude_deg": -71.34294,
+   "elevation_ft": 143,
+   "municipality": "Lowell"
+ },
+ {
+   "id": 334333,
+   "ident": "MA02",
+   "type": "heliport",
+   "name": "MSP GHQ Heliport",
+   "latitude_deg": 42.296594,
+   "longitude_deg": -71.415831,
+   "elevation_ft": 203,
+   "municipality": "Framingham"
+ },
+ {
+   "id": 18454,
+   "ident": "K1B9",
+   "type": "small_airport",
+   "name": "Mansfield Municipal Airport",
+   "latitude_deg": 42.00009918,
+   "longitude_deg": -71.19680023,
+   "elevation_ft": 122,
+   "municipality": "Mansfield"
+ },
+ {
+   "id": 10583,
+   "ident": "3MA1",
+   "type": "heliport",
+   "name": "Marlborough Hospital Heliport",
+   "latitude_deg": 42.35620117,
+   "longitude_deg": -71.55509949,
+   "elevation_ft": 520,
+   "municipality": "Marlborough"
+ },
+ {
+   "id": 21758,
+   "ident": "MA16",
+   "type": "small_airport",
+   "name": "Marshall's Airport",
+   "latitude_deg": 42.36339951,
+   "longitude_deg": -71.82170105,
+   "elevation_ft": 630,
+   "municipality": "Holden"
+ },
+ {
+   "id": 19949,
+   "ident": "KGHG",
+   "type": "small_airport",
+   "name": "Marshfield Municipal George Harlow Field",
+   "latitude_deg": 42.097665,
+   "longitude_deg": -70.67283,
+   "elevation_ft": 11,
+   "municipality": "Marshfield"
+ },
+ {
+   "id": 10591,
+   "ident": "3MA9",
+   "type": "heliport",
+   "name": "Marston Mills Heliport",
+   "latitude_deg": 41.64039993,
+   "longitude_deg": -70.40779877,
+   "elevation_ft": 10,
+   "municipality": "Marston Mills"
+ },
+ {
+   "id": 20578,
+   "ident": "KMVY",
+   "type": "small_airport",
+   "name": "Martha's Vineyard Airport",
+   "latitude_deg": 41.39310074,
+   "longitude_deg": -70.61430359,
+   "elevation_ft": 67,
+   "municipality": "Martha's Vineyard"
+ },
+ {
+   "id": 346526,
+   "ident": "US-4826",
+   "type": "heliport",
+   "name": "Martha's Vineyard Hospital Heliport",
+   "latitude_deg": 41.459786,
+   "longitude_deg": -70.578935,
+   "elevation_ft": 1,
+   "municipality": "Oak Bluffs"
+ },
+ {
+   "id": 7302,
+   "ident": "0MA1",
+   "type": "heliport",
+   "name": "Massachusetts General Hospital Heliport",
+   "latitude_deg": 42.363656,
+   "longitude_deg": -71.069142,
+   "elevation_ft": 214,
+   "municipality": "Boston"
+ },
+ {
+   "id": 21811,
+   "ident": "MA68",
+   "type": "heliport",
+   "name": "Massachusetts Mutual Life Insurance Co Heliport",
+   "latitude_deg": 42.116209,
+   "longitude_deg": -72.542545,
+   "elevation_ft": 206,
+   "municipality": "Springfield"
+ },
+ {
+   "id": 13357,
+   "ident": "6MA2",
+   "type": "small_airport",
+   "name": "Meadowbrook Airport",
+   "latitude_deg": 42.86009979,
+   "longitude_deg": -70.99659729,
+   "elevation_ft": 117,
+   "municipality": "Amesbury"
+ },
+ {
+   "id": 7773,
+   "ident": "12MA",
+   "type": "heliport",
+   "name": "Mellen Street Heliport",
+   "latitude_deg": 42.20709991,
+   "longitude_deg": -71.44270325,
+   "elevation_ft": 275,
+   "municipality": "Holliston"
+ },
+ {
+   "id": 21792,
+   "ident": "MA49",
+   "type": "heliport",
+   "name": "Metro-Swift Heliport",
+   "latitude_deg": 42.54119873,
+   "longitude_deg": -70.92759705,
+   "elevation_ft": 40,
+   "municipality": "Peabody"
+ },
+ {
+   "id": 516628,
+   "ident": "87MA",
+   "type": "heliport",
+   "name": "Miara1 Helipad",
+   "latitude_deg": 42.533408,
+   "longitude_deg": -71.134173,
+   "elevation_ft": 97,
+   "municipality": "Wilmington"
+ },
+ {
+   "id": 8435,
+   "ident": "1MA6",
+   "type": "heliport",
+   "name": "Micron Heliport",
+   "latitude_deg": 42.06790161,
+   "longitude_deg": -72.74449921,
+   "elevation_ft": 245,
+   "municipality": "Southwick"
+ },
+ {
+   "id": 11529,
+   "ident": "4MA3",
+   "type": "heliport",
+   "name": "Millbury Savings/West Heliport",
+   "latitude_deg": 42.19179916,
+   "longitude_deg": -71.76950073,
+   "elevation_ft": 393,
+   "municipality": "Millbury"
+ },
+ {
+   "id": 13202,
+   "ident": "6B6",
+   "type": "small_airport",
+   "name": "Minute Man Air Field",
+   "latitude_deg": 42.460298,
+   "longitude_deg": -71.519031,
+   "elevation_ft": 268,
+   "municipality": "Stow"
+ },
+ {
+   "id": 345683,
+   "ident": "MA09",
+   "type": "heliport",
+   "name": "Mojarr Heliport",
+   "latitude_deg": 42.050324,
+   "longitude_deg": -71.890213,
+   "elevation_ft": 458,
+   "municipality": "Dudley"
+ },
+ {
+   "id": 21803,
+   "ident": "MA6",
+   "type": "seaplane_base",
+   "name": "Monponsett Pond Seaplane Base",
+   "latitude_deg": 42.00979996,
+   "longitude_deg": -70.8431015,
+   "elevation_ft": 52,
+   "municipality": "Halifax"
+ },
+ {
+   "id": 533658,
+   "ident": "69MA",
+   "type": "heliport",
+   "name": "Monson Heliport",
+   "latitude_deg": 42.071744,
+   "longitude_deg": -72.321186,
+   "elevation_ft": 598,
+   "municipality": "Monson"
+ },
+ {
+   "id": 21777,
+   "ident": "MA34",
+   "type": "heliport",
+   "name": "Moore Dogs Heliport",
+   "latitude_deg": 41.92539978,
+   "longitude_deg": -70.80339813,
+   "elevation_ft": 110,
+   "municipality": "Carver"
+ },
+ {
+   "id": 21786,
+   "ident": "MA43",
+   "type": "small_airport",
+   "name": "Morehaven Airport",
+   "latitude_deg": 42.072173,
+   "longitude_deg": -72.899963,
+   "elevation_ft": 1120,
+   "municipality": "Granville"
+ },
+ {
+   "id": 8438,
+   "ident": "1MA9",
+   "type": "heliport",
+   "name": "Morton Hospital Heliport",
+   "latitude_deg": 41.90589905,
+   "longitude_deg": -71.09420013,
+   "elevation_ft": 50,
+   "municipality": "Taunton"
+ },
+ {
+   "id": 21823,
+   "ident": "MA80",
+   "type": "small_airport",
+   "name": "Mundale Airport",
+   "latitude_deg": 42.121431,
+   "longitude_deg": -72.812046,
+   "elevation_ft": 280,
+   "municipality": "Westfield"
+ },
+ {
+   "id": 21798,
+   "ident": "MA55",
+   "type": "small_airport",
+   "name": "Muskeget Island Airport",
+   "latitude_deg": 41.334801,
+   "longitude_deg": -70.2995,
+   "elevation_ft": 90,
+   "municipality": "Muskeget Island"
+ },
+ {
+   "id": 8429,
+   "ident": "1M8",
+   "type": "small_airport",
+   "name": "Myricks Airport",
+   "latitude_deg": 41.8391,
+   "longitude_deg": -71.026497,
+   "elevation_ft": 71,
+   "municipality": "Berkley"
+ },
+ {
+   "id": 332085,
+   "ident": "57MA",
+   "type": "heliport",
+   "name": "Nantucket Cottage Hospital Helipad",
+   "latitude_deg": 41.275778,
+   "longitude_deg": -70.101833,
+   "elevation_ft": 38,
+   "municipality": "Nantucket"
+ },
+ {
+   "id": 3360,
+   "ident": "KACK",
+   "type": "medium_airport",
+   "name": "Nantucket Memorial Airport",
+   "latitude_deg": 41.25310135,
+   "longitude_deg": -70.06020355,
+   "elevation_ft": 47,
+   "municipality": "Nantucket"
+ },
+ {
+   "id": 13356,
+   "ident": "6MA1",
+   "type": "heliport",
+   "name": "Nason Hill Heliport",
+   "latitude_deg": 42.205992,
+   "longitude_deg": -71.378855,
+   "elevation_ft": 182,
+   "municipality": "Sherborn"
+ },
+ {
+   "id": 21801,
+   "ident": "MA58",
+   "type": "heliport",
+   "name": "Natick Army Laboratories Heliport",
+   "latitude_deg": 42.2865244,
+   "longitude_deg": -71.36068583,
+   "elevation_ft": 143,
+   "municipality": "Natick"
+ },
+ {
+   "id": 3519,
+   "ident": "KEWB",
+   "type": "medium_airport",
+   "name": "New Bedford Regional Airport",
+   "latitude_deg": 41.67610168,
+   "longitude_deg": -70.95690155,
+   "elevation_ft": 80,
+   "municipality": "New Bedford"
+ },
+ {
+   "id": 21812,
+   "ident": "MA69",
+   "type": "heliport",
+   "name": "New England Memorial Hospital Heliport",
+   "latitude_deg": 42.45149994,
+   "longitude_deg": -71.08699799,
+   "elevation_ft": 219,
+   "municipality": "Stoneham"
+ },
+ {
+   "id": 9969,
+   "ident": "31MA",
+   "type": "small_airport",
+   "name": "Norm's Field",
+   "latitude_deg": 42.26242,
+   "longitude_deg": -72.409308,
+   "elevation_ft": 460,
+   "municipality": "Belchertown"
+ },
+ {
+   "id": 21766,
+   "ident": "MA23",
+   "type": "heliport",
+   "name": "North Bay Heliport",
+   "latitude_deg": 41.62730026,
+   "longitude_deg": -70.39969635,
+   "elevation_ft": 10,
+   "municipality": "Osterville"
+ },
+ {
+   "id": 10586,
+   "ident": "3MA4",
+   "type": "heliport",
+   "name": "North Chatham Heliport",
+   "latitude_deg": 41.71480179,
+   "longitude_deg": -69.9661026,
+   "elevation_ft": 10,
+   "municipality": "Chatham"
+ },
+ {
+   "id": 19051,
+   "ident": "K7B2",
+   "type": "small_airport",
+   "name": "Northampton Airport",
+   "latitude_deg": 42.328098,
+   "longitude_deg": -72.611397,
+   "elevation_ft": 121,
+   "municipality": "Northampton"
+ },
+ {
+   "id": 20777,
+   "ident": "KOWD",
+   "type": "medium_airport",
+   "name": "Norwood Memorial Airport",
+   "latitude_deg": 42.19049835,
+   "longitude_deg": -71.17289734,
+   "elevation_ft": 49,
+   "municipality": "Norwood"
+ },
+ {
+   "id": 21755,
+   "ident": "MA13",
+   "type": "heliport",
+   "name": "Nugent Heliport",
+   "latitude_deg": 42.62789917,
+   "longitude_deg": -70.63780212,
+   "elevation_ft": 100,
+   "municipality": "Gloucester"
+ },
+ {
+   "id": 20763,
+   "ident": "KORE",
+   "type": "small_airport",
+   "name": "Orange Municipal Airport",
+   "latitude_deg": 42.57009888,
+   "longitude_deg": -72.28859711,
+   "elevation_ft": 555,
+   "municipality": "Orange"
+ },
+ {
+   "id": 21837,
+   "ident": "MA94",
+   "type": "heliport",
+   "name": "Parker Heliport",
+   "latitude_deg": 42.27539825,
+   "longitude_deg": -71.79869843,
+   "elevation_ft": 520,
+   "municipality": "Worcester"
+ },
+ {
+   "id": 12471,
+   "ident": "5MA3",
+   "type": "small_airport",
+   "name": "Pasport Airport",
+   "latitude_deg": 42.18759918,
+   "longitude_deg": -72.14309692,
+   "elevation_ft": 1010,
+   "municipality": "West Brookfield"
+ },
+ {
+   "id": 9109,
+   "ident": "26MA",
+   "type": "small_airport",
+   "name": "Pepperell Airport",
+   "latitude_deg": 42.69620132,
+   "longitude_deg": -71.55010223,
+   "elevation_ft": 176,
+   "municipality": "Pepperell"
+ },
+ {
+   "id": 11534,
+   "ident": "4MA8",
+   "type": "heliport",
+   "name": "Pg Heliport",
+   "latitude_deg": 42.28089905,
+   "longitude_deg": -71.03730011,
+   "elevation_ft": 10,
+   "municipality": "Quincy"
+ },
+ {
+   "id": 21807,
+   "ident": "MA64",
+   "type": "small_airport",
+   "name": "Pheasant Field",
+   "latitude_deg": 42.07540131,
+   "longitude_deg": -70.81529999,
+   "elevation_ft": 40,
+   "municipality": "Pembroke"
+ },
+ {
+   "id": 20871,
+   "ident": "KPSF",
+   "type": "small_airport",
+   "name": "Pittsfield Municipal Airport",
+   "latitude_deg": 42.4268,
+   "longitude_deg": -73.2929,
+   "elevation_ft": 1188,
+   "municipality": "Pittsfield"
+ },
+ {
+   "id": 11532,
+   "ident": "4MA6",
+   "type": "heliport",
+   "name": "Pleasant Beach Heliport",
+   "latitude_deg": 42.26258,
+   "longitude_deg": -70.81278,
+   "elevation_ft": 20,
+   "municipality": "Cohasset"
+ },
+ {
+   "id": 9328,
+   "ident": "2B2",
+   "type": "small_airport",
+   "name": "Plum Island Airport",
+   "latitude_deg": 42.795898,
+   "longitude_deg": -70.841202,
+   "elevation_ft": 11,
+   "municipality": "Newburyport"
+ },
+ {
+   "id": 20900,
+   "ident": "KPYM",
+   "type": "small_airport",
+   "name": "Plymouth Municipal Airport",
+   "latitude_deg": 41.909,
+   "longitude_deg": -70.728798,
+   "elevation_ft": 148,
+   "municipality": "Plymouth"
+ },
+ {
+   "id": 21757,
+   "ident": "MA15",
+   "type": "heliport",
+   "name": "Pond Road Heliport",
+   "latitude_deg": 42.6283989,
+   "longitude_deg": -70.6434021,
+   "elevation_ft": 50,
+   "municipality": "Gloucester"
+ },
+ {
+   "id": 8896,
+   "ident": "22MA",
+   "type": "heliport",
+   "name": "Poole's Heliport",
+   "latitude_deg": 42.63619995,
+   "longitude_deg": -70.61869812,
+   "elevation_ft": 45,
+   "municipality": "Rockport"
+ },
+ {
+   "id": 21842,
+   "ident": "MA99",
+   "type": "heliport",
+   "name": "Princess House Heliport",
+   "latitude_deg": 41.86119843,
+   "longitude_deg": -71.10780334,
+   "elevation_ft": 12,
+   "municipality": "Taunton"
+ },
+ {
+   "id": 21784,
+   "ident": "MA41",
+   "type": "heliport",
+   "name": "Princess Lane Heliport",
+   "latitude_deg": 42.22439957,
+   "longitude_deg": -71.55970001,
+   "elevation_ft": 135,
+   "municipality": "Hopkinton"
+ },
+ {
+   "id": 21835,
+   "ident": "MA92",
+   "type": "heliport",
+   "name": "Prospect Hill Heliport",
+   "latitude_deg": 42.39789963,
+   "longitude_deg": -71.25779724,
+   "elevation_ft": 270,
+   "municipality": "Waltham"
+ },
+ {
+   "id": 20885,
+   "ident": "KPVC",
+   "type": "small_airport",
+   "name": "Provincetown Municipal Airport",
+   "latitude_deg": 42.07189941,
+   "longitude_deg": -70.2213974,
+   "elevation_ft": 9,
+   "municipality": "Provincetown"
+ },
+ {
+   "id": 13362,
+   "ident": "6MA7",
+   "type": "heliport",
+   "name": "Quantum (Shrewsbury) Heliport",
+   "latitude_deg": 42.27289963,
+   "longitude_deg": -71.69259644,
+   "elevation_ft": 545,
+   "municipality": "Shrewsbury"
+ },
+ {
+   "id": 7304,
+   "ident": "0MA3",
+   "type": "heliport",
+   "name": "Reh Heliport",
+   "latitude_deg": 41.786224,
+   "longitude_deg": -71.231437,
+   "elevation_ft": 100,
+   "municipality": "Rehoboth"
+ },
+ {
+   "id": 21794,
+   "ident": "MA51",
+   "type": "heliport",
+   "name": "Richie's Heliport",
+   "latitude_deg": 41.63819885,
+   "longitude_deg": -71.03890228,
+   "elevation_ft": 104,
+   "municipality": "North Dartmouth"
+ },
+ {
+   "id": 9532,
+   "ident": "2MA3",
+   "type": "heliport",
+   "name": "Rider Heliport",
+   "latitude_deg": 42.66429901,
+   "longitude_deg": -70.83979797,
+   "elevation_ft": 40,
+   "municipality": "Ipswich"
+ },
+ {
+   "id": 21821,
+   "ident": "MA78",
+   "type": "seaplane_base",
+   "name": "Russell Mill Pond Seaplane Base",
+   "latitude_deg": 41.91790009,
+   "longitude_deg": -70.62779999,
+   "elevation_ft": 55,
+   "municipality": "Plymouth"
+ },
+ {
+   "id": 10590,
+   "ident": "3MA8",
+   "type": "heliport",
+   "name": "Sadler Hill Heliport",
+   "latitude_deg": 42.62229919,
+   "longitude_deg": -70.65229797,
+   "elevation_ft": 125,
+   "municipality": "Gloucester"
+ },
+ {
+   "id": 21776,
+   "ident": "MA33",
+   "type": "heliport",
+   "name": "Sagamore Hill Heliport",
+   "latitude_deg": 42.64189911,
+   "longitude_deg": -70.82679749,
+   "elevation_ft": 200,
+   "municipality": "Ipswich"
+ },
+ {
+   "id": 13358,
+   "ident": "6MA3",
+   "type": "heliport",
+   "name": "Scibelli Heliport",
+   "latitude_deg": 42.06290054,
+   "longitude_deg": -72.72450256,
+   "elevation_ft": 225,
+   "municipality": "Southwick"
+ },
+ {
+   "id": 10054,
+   "ident": "33MA",
+   "type": "heliport",
+   "name": "Seagate Heliport",
+   "latitude_deg": 42.55979919,
+   "longitude_deg": -70.77230072,
+   "elevation_ft": 40,
+   "municipality": "Manchester"
+ },
+ {
+   "id": 10585,
+   "ident": "3MA3",
+   "type": "heliport",
+   "name": "Seapuit Heliport",
+   "latitude_deg": 41.61149979,
+   "longitude_deg": -70.41529846,
+   "elevation_ft": 20,
+   "municipality": "Barnstable"
+ },
+ {
+   "id": 21806,
+   "ident": "MA63",
+   "type": "small_airport",
+   "name": "Sherman-Private Airport",
+   "latitude_deg": 42.07400131,
+   "longitude_deg": -70.79810333,
+   "elevation_ft": 34,
+   "municipality": "Pembroke"
+ },
+ {
+   "id": 21795,
+   "ident": "MA52",
+   "type": "small_airport",
+   "name": "Sids Airport",
+   "latitude_deg": 42.43817139,
+   "longitude_deg": -71.47024536,
+   "elevation_ft": 220,
+   "municipality": "Maynard"
+ },
+ {
+   "id": 21788,
+   "ident": "MA45",
+   "type": "heliport",
+   "name": "Simmons Heliport",
+   "latitude_deg": 42.125143,
+   "longitude_deg": -70.843835,
+   "elevation_ft": 90,
+   "municipality": "Hanover"
+ },
+ {
+   "id": 21818,
+   "ident": "MA75",
+   "type": "small_airport",
+   "name": "Sky Glen Airport",
+   "latitude_deg": 42.04090118,
+   "longitude_deg": -71.61620331,
+   "elevation_ft": 260,
+   "municipality": "Uxbridge"
+ },
+ {
+   "id": 21779,
+   "ident": "MA36",
+   "type": "small_airport",
+   "name": "Snow Airport",
+   "latitude_deg": 42.66650009,
+   "longitude_deg": -70.85299683,
+   "elevation_ft": 61,
+   "municipality": "Ipswich"
+ },
+ {
+   "id": 12476,
+   "ident": "5MA8",
+   "type": "seaplane_base",
+   "name": "South Pond Seaplane Base",
+   "latitude_deg": 42.00870132,
+   "longitude_deg": -72.76260376,
+   "elevation_ft": 225,
+   "municipality": "Southwick"
+ },
+ {
+   "id": 18672,
+   "ident": "K3B0",
+   "type": "small_airport",
+   "name": "Southbridge Municipal Airport",
+   "latitude_deg": 42.10089874,
+   "longitude_deg": -72.03839874,
+   "elevation_ft": 699,
+   "municipality": "Southbridge"
+ },
+ {
+   "id": 12473,
+   "ident": "5MA5",
+   "type": "heliport",
+   "name": "Southend Farm Heliport",
+   "latitude_deg": 42.19010162,
+   "longitude_deg": -71.35620117,
+   "elevation_ft": 190,
+   "municipality": "Millis"
+ },
+ {
+   "id": 12783,
+   "ident": "60M",
+   "type": "small_airport",
+   "name": "Spencer Airport",
+   "latitude_deg": 42.290501,
+   "longitude_deg": -71.964699,
+   "elevation_ft": 1040,
+   "municipality": "Spencer"
+ },
+ {
+   "id": 21827,
+   "ident": "MA84",
+   "type": "heliport",
+   "name": "Sprague Nr 1 Heliport",
+   "latitude_deg": 42.72090149,
+   "longitude_deg": -73.21340179,
+   "elevation_ft": 665,
+   "municipality": "Williamstown"
+ },
+ {
+   "id": 21828,
+   "ident": "MA85",
+   "type": "heliport",
+   "name": "Sprague Nr 2 Heliport",
+   "latitude_deg": 42.7195015,
+   "longitude_deg": -73.21340179,
+   "elevation_ft": 665,
+   "municipality": "Williamstown"
+ },
+ {
+   "id": 21804,
+   "ident": "MA60",
+   "type": "heliport",
+   "name": "St Luke's Hospital Heliport",
+   "latitude_deg": 41.89400101,
+   "longitude_deg": -70.91500092,
+   "elevation_ft": 140,
+   "municipality": "Middleborough"
+ },
+ {
+   "id": 12474,
+   "ident": "5MA6",
+   "type": "heliport",
+   "name": "St. Luke's Hospital Heliport",
+   "latitude_deg": 41.626568,
+   "longitude_deg": -70.93863,
+   "elevation_ft": 123,
+   "municipality": "New Bedford"
+ },
+ {
+   "id": 18674,
+   "ident": "3B3",
+   "type": "small_airport",
+   "name": "Sterling Airport",
+   "latitude_deg": 42.4259,
+   "longitude_deg": -71.7929,
+   "elevation_ft": 459,
+   "municipality": "Sterling"
+ },
+ {
+   "id": 569196,
+   "ident": "MA03",
+   "type": "heliport",
+   "name": "Sturdy Memorial Hospital Helipad",
+   "latitude_deg": 41.941784,
+   "longitude_deg": -71.274281,
+   "elevation_ft": 177,
+   "municipality": "Attleboro"
+ },
+ {
+   "id": 21813,
+   "ident": "MA70",
+   "type": "small_airport",
+   "name": "Sudbury Airport",
+   "latitude_deg": 42.35089874,
+   "longitude_deg": -71.42980194,
+   "elevation_ft": 135,
+   "municipality": "Sudbury"
+ },
+ {
+   "id": 324429,
+   "ident": "US-0568",
+   "type": "seaplane_base",
+   "name": "Tailwind Boston Seaplane Base",
+   "latitude_deg": 42.351583,
+   "longitude_deg": -71.024971,
+   "elevation_ft": null,
+   "municipality": "Boston"
+ },
+ {
+   "id": 19120,
+   "ident": "K8B5",
+   "type": "small_airport",
+   "name": "Tanner Hiller Airport",
+   "latitude_deg": 42.3564,
+   "longitude_deg": -72.130096,
+   "elevation_ft": 584,
+   "municipality": "Barre/Barre Plains"
+ },
+ {
+   "id": 21177,
+   "ident": "KTAN",
+   "type": "small_airport",
+   "name": "Taunton Municipal King Field",
+   "latitude_deg": 41.874401,
+   "longitude_deg": -71.016602,
+   "elevation_ft": 43,
+   "municipality": "Taunton"
+ },
+ {
+   "id": 45473,
+   "ident": "80MA",
+   "type": "heliport",
+   "name": "Tew Mac Heliport",
+   "latitude_deg": 42.5975,
+   "longitude_deg": -71.205,
+   "elevation_ft": 92,
+   "municipality": "Tewksbury"
+ },
+ {
+   "id": 21810,
+   "ident": "MA67",
+   "type": "heliport",
+   "name": "Tgp Heliport",
+   "latitude_deg": 42.03450012,
+   "longitude_deg": -72.63200378,
+   "elevation_ft": 120,
+   "municipality": "Agawam"
+ },
+ {
+   "id": 6883,
+   "ident": "06MA",
+   "type": "heliport",
+   "name": "The Barn Heliport",
+   "latitude_deg": 42.69060135,
+   "longitude_deg": -71.60900116,
+   "elevation_ft": 210,
+   "municipality": "Pepperell"
+ },
+ {
+   "id": 21765,
+   "ident": "MA22",
+   "type": "heliport",
+   "name": "The Beat Heliport",
+   "latitude_deg": 42.315128,
+   "longitude_deg": -71.049264,
+   "elevation_ft": 55,
+   "municipality": "Boston"
+ },
+ {
+   "id": 13655,
+   "ident": "70MA",
+   "type": "heliport",
+   "name": "Tobey Hospital Heliport",
+   "latitude_deg": 41.75500107,
+   "longitude_deg": -70.71389771,
+   "elevation_ft": 86,
+   "municipality": "Wareham"
+ },
+ {
+   "id": 21787,
+   "ident": "MA44",
+   "type": "small_airport",
+   "name": "Trade Wind Airport",
+   "latitude_deg": 41.441799,
+   "longitude_deg": -70.570297,
+   "elevation_ft": 43,
+   "municipality": "Oak Bluffs"
+ },
+ {
+   "id": 21815,
+   "ident": "MA72",
+   "type": "small_airport",
+   "name": "Tuckernuck Airport",
+   "latitude_deg": 41.297501,
+   "longitude_deg": -70.260399,
+   "elevation_ft": 23,
+   "municipality": "Tuckernuck Island"
+ },
+ {
+   "id": 329205,
+   "ident": "US-0960",
+   "type": "heliport",
+   "name": "Tufts Medical Center Heliport",
+   "latitude_deg": 42.349037,
+   "longitude_deg": -71.063223,
+   "elevation_ft": 230,
+   "municipality": "Boston"
+ },
+ {
+   "id": 18350,
+   "ident": "K0B5",
+   "type": "small_airport",
+   "name": "Turners Falls Airport",
+   "latitude_deg": 42.5914,
+   "longitude_deg": -72.522797,
+   "elevation_ft": 356,
+   "municipality": "Montague"
+ },
+ {
+   "id": 8432,
+   "ident": "1MA2",
+   "type": "heliport",
+   "name": "UMASS Memorial Medical Center-Univ Campus Heliport",
+   "latitude_deg": 42.27500153,
+   "longitude_deg": -71.76000214,
+   "elevation_ft": 417,
+   "municipality": "Worcester"
+ },
+ {
+   "id": 21785,
+   "ident": "MA42",
+   "type": "heliport",
+   "name": "US Coast Guard Gloucester Heliport",
+   "latitude_deg": 42.6101,
+   "longitude_deg": -70.660004,
+   "elevation_ft": 10,
+   "municipality": "Gloucester"
+ },
+ {
+   "id": 8434,
+   "ident": "1MA5",
+   "type": "small_airport",
+   "name": "Unknown Field",
+   "latitude_deg": 42.27899933,
+   "longitude_deg": -71.54779816,
+   "elevation_ft": 432,
+   "municipality": "Southborough"
+ },
+ {
+   "id": 21800,
+   "ident": "MA57",
+   "type": "heliport",
+   "name": "Us Property & Fiscal Office Heliport",
+   "latitude_deg": 42.28340149,
+   "longitude_deg": -71.36620331,
+   "elevation_ft": 200,
+   "municipality": "Natick"
+ },
+ {
+   "id": 8797,
+   "ident": "20MA",
+   "type": "heliport",
+   "name": "WCVB-TV Heliport",
+   "latitude_deg": 42.304154,
+   "longitude_deg": -71.227058,
+   "elevation_ft": 157,
+   "municipality": "Needham"
+ },
+ {
+   "id": 8145,
+   "ident": "19MA",
+   "type": "heliport",
+   "name": "Waine Heliport",
+   "latitude_deg": 41.28509903,
+   "longitude_deg": -70.14969635,
+   "elevation_ft": 80,
+   "municipality": "Nantucket"
+ },
+ {
+   "id": 19928,
+   "ident": "KGBR",
+   "type": "small_airport",
+   "name": "Walter J. Koladza Airport",
+   "latitude_deg": 42.18420029,
+   "longitude_deg": -73.40319824,
+   "elevation_ft": 739,
+   "municipality": "Great Barrington"
+ },
+ {
+   "id": 21819,
+   "ident": "MA76",
+   "type": "heliport",
+   "name": "Waltham Weston Hospital & Medical Center Heliport",
+   "latitude_deg": 42.36759949,
+   "longitude_deg": -71.24810028,
+   "elevation_ft": 75,
+   "municipality": "Waltham"
+ },
+ {
+   "id": 9158,
+   "ident": "27MA",
+   "type": "seaplane_base",
+   "name": "Wamsetto Seaplane Base",
+   "latitude_deg": 41.8205986,
+   "longitude_deg": -71.11470032,
+   "elevation_ft": null,
+   "municipality": "Berkley"
+ },
+ {
+   "id": 8433,
+   "ident": "1MA4",
+   "type": "heliport",
+   "name": "Wang Heliport",
+   "latitude_deg": 42.60929871,
+   "longitude_deg": -71.32170105,
+   "elevation_ft": 104,
+   "municipality": "Lowell"
+ },
+ {
+   "id": 21796,
+   "ident": "MA53",
+   "type": "small_airport",
+   "name": "Ware Airport",
+   "latitude_deg": 42.2820015,
+   "longitude_deg": -72.21479797,
+   "elevation_ft": 483,
+   "municipality": "Ware"
+ },
+ {
+   "id": 21840,
+   "ident": "MA97",
+   "type": "small_airport",
+   "name": "Waters Airport",
+   "latitude_deg": 42.12509918,
+   "longitude_deg": -71.7397995,
+   "elevation_ft": 700,
+   "municipality": "Sutton"
+ },
+ {
+   "id": 15801,
+   "ident": "9MA8",
+   "type": "heliport",
+   "name": "Wayne West Heliport",
+   "latitude_deg": 41.84680176,
+   "longitude_deg": -70.7609024,
+   "elevation_ft": 90,
+   "municipality": "Carver"
+ },
+ {
+   "id": 7307,
+   "ident": "0MA6",
+   "type": "heliport",
+   "name": "Wbz Heliport",
+   "latitude_deg": 42.36510086,
+   "longitude_deg": -71.13259888,
+   "elevation_ft": 9,
+   "municipality": "Boston"
+ },
+ {
+   "id": 6937,
+   "ident": "07MA",
+   "type": "heliport",
+   "name": "West Pond Heliport",
+   "latitude_deg": 41.91699982,
+   "longitude_deg": -70.70950317,
+   "elevation_ft": 149,
+   "municipality": "Plymouth"
+ },
+ {
+   "id": 3393,
+   "ident": "KBAF",
+   "type": "medium_airport",
+   "name": "Westfield-Barnes Regional Airport",
+   "latitude_deg": 42.157799,
+   "longitude_deg": -72.715599,
+   "elevation_ft": 271,
+   "municipality": "Westfield"
+ },
+ {
+   "id": 8951,
+   "ident": "23MA",
+   "type": "heliport",
+   "name": "Westford Regency Heliport",
+   "latitude_deg": 42.56309891,
+   "longitude_deg": -71.43139648,
+   "elevation_ft": 255,
+   "municipality": "Westford"
+ },
+ {
+   "id": 3444,
+   "ident": "KCEF",
+   "type": "medium_airport",
+   "name": "Westover Metropolitan Airport / Westover Air Reserve Base",
+   "latitude_deg": 42.194,
+   "longitude_deg": -72.534798,
+   "elevation_ft": 241,
+   "municipality": "Chicopee"
+ },
+ {
+   "id": 10587,
+   "ident": "3MA5",
+   "type": "small_airport",
+   "name": "Westport Airport",
+   "latitude_deg": 41.543201,
+   "longitude_deg": -71.035301,
+   "elevation_ft": 80,
+   "municipality": "Westport"
+ },
+ {
+   "id": 21825,
+   "ident": "MA82",
+   "type": "seaplane_base",
+   "name": "Westport Seaplane Base",
+   "latitude_deg": 41.64929962,
+   "longitude_deg": -71.12590027,
+   "elevation_ft": 131,
+   "municipality": "Westport"
+ },
+ {
+   "id": 21756,
+   "ident": "MA14",
+   "type": "heliport",
+   "name": "Wheeler's Point Heliport",
+   "latitude_deg": 42.6393013,
+   "longitude_deg": -70.68029785,
+   "elevation_ft": 35,
+   "municipality": "Gloucester"
+ },
+ {
+   "id": 11000,
+   "ident": "42MA",
+   "type": "heliport",
+   "name": "Worcester Medical Center Heliport",
+   "latitude_deg": 42.25429916,
+   "longitude_deg": -71.79769897,
+   "elevation_ft": 469,
+   "municipality": "Worcester"
+ },
+ {
+   "id": 3756,
+   "ident": "KORH",
+   "type": "medium_airport",
+   "name": "Worcester Regional Airport",
+   "latitude_deg": 42.2673,
+   "longitude_deg": -71.875702,
+   "elevation_ft": 1009,
+   "municipality": "Worcester"
+ },
+ {
+   "id": 11531,
+   "ident": "4MA5",
+   "type": "heliport",
+   "name": "World Trade Center Heliport",
+   "latitude_deg": 42.34930038,
+   "longitude_deg": -71.04370117,
+   "elevation_ft": 15,
+   "municipality": "Boston"
+ },
+ {
+   "id": 6986,
+   "ident": "08MA",
+   "type": "small_airport",
+   "name": "Wormid Airport",
+   "latitude_deg": 42.29399872,
+   "longitude_deg": -71.49620056,
+   "elevation_ft": 360,
+   "municipality": "Southborough"
+ }
+]
