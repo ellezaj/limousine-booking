@@ -1,6 +1,6 @@
 # Boundless Limousine App
 
-A React + TypeScript + Vite starter project.
+A Skills test made for a limousine booking project
 
 ## Available Scripts
 
