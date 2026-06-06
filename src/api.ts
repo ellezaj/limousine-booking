@@ -1,5 +1,5 @@
 import airports from '../airports.json';
-declare const GOOGLE_MAPS_API_KEY: string;
+import { GOOGLE_MAPS_API_KEY } from './config';
 const airportsData = airports as any[];
 
 export async function getBookings(): Promise<any[]> {
