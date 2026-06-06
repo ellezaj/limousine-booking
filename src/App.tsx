@@ -255,7 +255,7 @@ function App() {
                     <div className="grid gap-4 md:grid-cols-6">
                         <div className="flex flex-col gap-2 col-span-2">
                             <span className="text-sm font-semibold text-slate-700">Pickup</span>
-                            <div className="relative">
+                            <div className="relative w-full h-[60px] rounded-md border border-gray-300 pl-10 pr-3 py-3 text-gray-700">
                                 <span className="floating-icon pointer-events-none absolute inset-y-0 top-px left-3 flex items-center">
                                     <i className="bi bi-calendar"></i>
                                 </span>
@@ -263,7 +263,7 @@ function App() {
                                 required
                                     type="date"
                                     id="pickupDate"
-                                    className="floating-input h-[60px] text-sm w-full h-10 rounded-md border border-gray-300 bg-gray-100 pl-10 pr-3 py-3 text-gray-700 placeholder-slate-300 focus:outline-none focus:ring-0 focus:border-brand"
+                                    className="floating-input date text-sm placeholder-slate-300 focus:outline-none focus:ring-0 focus:border-brand"
                                     value={formData.pickupDate}
                                     onChange={e => handleFieldChange('pickupDate', e.target.value)}
                                 />

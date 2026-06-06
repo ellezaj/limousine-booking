@@ -88,3 +88,8 @@ input[type="date"]::-webkit-calendar-picker-indicator, input[type="time"]::-webk
 .react-tel-input .selected-flag {
   padding: 0.75rem;
 }
+.floating-input.date{
+  padding: 3px 10px;
+  border-radius: 0px;
+  width: 100%;
+}
