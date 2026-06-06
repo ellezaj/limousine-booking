@@ -48,6 +48,7 @@ Create environment file:
 
 ```bash
 VITE_GOOGLE_MAPS_API_KEY=your_api_key_here
+VITE_API_URL=your_api_url_here
 ```
 
 Run the project:
@@ -55,13 +56,6 @@ Run the project:
 ```bash
 npm run dev
 ```
-
-Run the mock endpoint:
-
-```bash
-npm run mock
-```
----
 
 ## 👨‍💻 Author
 
